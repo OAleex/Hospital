@@ -1,6 +1,6 @@
 ## Simple program for an Hospital's Properties.
 
-### Have Classes concepts, objects, methods, abstration, heritage, encapsulation & class relationship.
+### Have Classes concepts, objects, methods, abstration, heritage, encapsulation & class relationship with some exceptions.
 
 ## By OAleex.
 #### ~Just for pratice OOP.
